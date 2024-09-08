@@ -1,4 +1,4 @@
-# Random Stock Generator In Python!
+# 📈📉Random Stock Generator In Python!
 
 🎨 Background
 
